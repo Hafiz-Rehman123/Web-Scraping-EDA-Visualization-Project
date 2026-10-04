@@ -18,7 +18,7 @@ An end-to-end data analytics project demonstrating public web scraping, explorat
 ---
 
 ## 📈 Executive Insights & Dashboard
-![Executive Dashboard](images/internship_visualization_portfolio.png)
+![Executive Dashboard]([images/internship_visualization_portfolio](https://github.com/Hafiz-Rehman123/Web-Scraping-EDA-Visualization-Project/blob/main/executive_dashboard.png).png)
 
 1. **Price Distribution:** Book prices are uniformly distributed across the catalog range (£10–£60).
 2. **Rating Parity:** Stock volume is balanced evenly across all star rating tiers (1 to 5 stars).
